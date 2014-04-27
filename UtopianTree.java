@@ -22,7 +22,6 @@ class UtopianTree
 	public static void main(String args[]) throws Exception
 	{
 		int noOfTC = 0;
-		int noOfSeasons = 0;
 		int cycleArray[];
 
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
